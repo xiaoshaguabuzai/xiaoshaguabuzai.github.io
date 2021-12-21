@@ -1,1 +1,411 @@
 
+{
+  "@type": "com.wj.common.base.BaseResult",
+  "code": "200",
+  "data": [
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "选择; 被选中者; 可供选择的事物",
+      "word": {
+        "createTime": null,
+        "frequency": 2951,
+        "id": 1081817,
+        "phonAm": "sɪˈlɛkʃən",
+        "phonEn": "sɪˈlekʃn",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "selection",
+        "syllable": "se·lec·tion"
+      },
+      "wordId": 1081817
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "最高的; 顶上的; 头等的; 最大的",
+      "word": {
+        "createTime": null,
+        "frequency": 483,
+        "id": 1135208,
+        "phonAm": "tɑp",
+        "phonEn": "tɒp",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "top",
+        "syllable": "top"
+      },
+      "wordId": 1135208
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "跑; 运转(run的ing形式)",
+      "word": {
+        "createTime": null,
+        "frequency": 2676,
+        "id": 1174603,
+        "phonAm": "ˈrʌnɪŋ",
+        "phonEn": "ˈrʌnɪŋ",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "running",
+        "syllable": "run·ning"
+      },
+      "wordId": 1174603
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "依照",
+      "word": {
+        "createTime": null,
+        "frequency": 3216,
+        "id": 1174633,
+        "phonAm": "əˈkɔdɪŋ",
+        "phonEn": "əˈkɔ:dɪŋ",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "according",
+        "syllable": "ac·cord·ing"
+      },
+      "wordId": 1174633
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "破纪录的",
+      "word": {
+        "createTime": null,
+        "frequency": 21245,
+        "id": 1189929,
+        "phonAm": "NULL",
+        "phonEn": "NULL",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "record-breaking",
+        "syllable": "record-breaking"
+      },
+      "wordId": 1189929
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "超级的，极度的，过分的，超等的，极好的; 面积的，平方的",
+      "word": {
+        "createTime": null,
+        "frequency": 3268,
+        "id": 1115546,
+        "phonAm": "ˈsupɚ",
+        "phonEn": "ˈsu:pə(r)",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "super",
+        "syllable": "su·per"
+      },
+      "wordId": 1115546
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "超级的，极度的，过分的，超等的，极好的; 面积的，平方的",
+      "word": {
+        "createTime": null,
+        "frequency": 3268,
+        "id": 1115546,
+        "phonAm": "ˈsupɚ",
+        "phonEn": "ˈsu:pə(r)",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "super",
+        "syllable": "su·per"
+      },
+      "wordId": 1115546
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "终极; 顶点; 基本原理; 基本事实",
+      "word": {
+        "createTime": null,
+        "frequency": 3327,
+        "id": 1145593,
+        "phonAm": "ˈʌltəmɪt",
+        "phonEn": "ˈʌltɪmət",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "ultimate",
+        "syllable": "ul·ti·mate"
+      },
+      "wordId": 1145593
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "权威; 权力; 学术权威; [复数]当权者",
+      "word": {
+        "createTime": null,
+        "frequency": 3515,
+        "id": 771033,
+        "phonAm": "əˈθɔrəti",
+        "phonEn": "ɔ:ˈθɒrəti",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "authority",
+        "syllable": "au·tho·ri·ty"
+      },
+      "wordId": 771033
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "破纪录",
+      "word": {
+        "createTime": null,
+        "frequency": 21245,
+        "id": 1189929,
+        "phonAm": "NULL",
+        "phonEn": "NULL",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "record-breaking",
+        "syllable": "record-breaking"
+      },
+      "wordId": 1189929
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "泡，水泡; 冒泡，起泡; 泡影，妄想; （欲表达的）一点感情",
+      "word": {
+        "createTime": null,
+        "frequency": 4254,
+        "id": 794969,
+        "phonAm": "ˈbʌbəl",
+        "phonEn": "ˈbʌbl",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "bubble",
+        "syllable": "bu·bble"
+      },
+      "wordId": 794969
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "周年纪念日",
+      "word": {
+        "createTime": null,
+        "frequency": 3404,
+        "id": 760995,
+        "phonAm": "ˌænɪˈvɜrsəri",
+        "phonEn": "ˌænɪˈvɜ:səri",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "anniversary",
+        "syllable": "a·nni·ver·sa·ry"
+      },
+      "wordId": 760995
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "泡，水泡; 冒泡，起泡; 泡影，妄想; （欲表达的）一点感情",
+      "word": {
+        "createTime": null,
+        "frequency": 4254,
+        "id": 794969,
+        "phonAm": "ˈbʌbəl",
+        "phonEn": "ˈbʌbl",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "bubble",
+        "syllable": "bu·bble"
+      },
+      "wordId": 794969
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "泡，水泡; 冒泡，起泡; 泡影，妄想; （欲表达的）一点感情",
+      "word": {
+        "createTime": null,
+        "frequency": 4254,
+        "id": 794969,
+        "phonAm": "ˈbʌbəl",
+        "phonEn": "ˈbʌbl",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "bubble",
+        "syllable": "bu·bble"
+      },
+      "wordId": 794969
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "原则，原理; 准则，道义; 道德标准; 本能",
+      "word": {
+        "createTime": null,
+        "frequency": 2612,
+        "id": 1042397,
+        "phonAm": "ˈprɪnsəpəl",
+        "phonEn": "ˈprɪnsəpl",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "principle",
+        "syllable": "prin·ci·ple"
+      },
+      "wordId": 1042397
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "证明，证实; 论证; 显示，展示; 演示，说明",
+      "word": {
+        "createTime": null,
+        "frequency": 2618,
+        "id": 846638,
+        "phonAm": "ˈdɛmənˌstret",
+        "phonEn": "ˈdemənstreɪt",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "demonstrate",
+        "syllable": "de·mon·strate"
+      },
+      "wordId": 846638
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "有趣的; 迷人的",
+      "word": {
+        "createTime": null,
+        "frequency": 6717,
+        "id": 1175924,
+        "phonAm": "NULL",
+        "phonEn": "ɪnˈtri:gɪŋ",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "intriguing",
+        "syllable": "in·tri·guing"
+      },
+      "wordId": 1175924
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "泡，水泡; 冒泡，起泡; 泡影，妄想; （欲表达的）一点感情",
+      "word": {
+        "createTime": null,
+        "frequency": 4254,
+        "id": 794969,
+        "phonAm": "ˈbʌbəl",
+        "phonEn": "ˈbʌbl",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "bubble",
+        "syllable": "bu·bble"
+      },
+      "wordId": 794969
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "印; 给…以深刻印象; 使铭记",
+      "word": {
+        "createTime": null,
+        "frequency": 3762,
+        "id": 935338,
+        "phonAm": "ɪmˈprɛs",
+        "phonEn": "ɪmˈpres",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "impress",
+        "syllable": "im·press"
+      },
+      "wordId": 935338
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "令人敬畏的; 使人畏惧的; 可怕的; 极好的",
+      "word": {
+        "createTime": null,
+        "frequency": 4644,
+        "id": 773395,
+        "phonAm": "ˈɔsəm",
+        "phonEn": "ˈɔ:səm",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "awesome",
+        "syllable": "awe·some"
+      },
+      "wordId": 773395
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "泡，水泡; 冒泡，起泡; 泡影，妄想; （欲表达的）一点感情",
+      "word": {
+        "createTime": null,
+        "frequency": 4254,
+        "id": 794969,
+        "phonAm": "ˈbʌbəl",
+        "phonEn": "ˈbʌbl",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "bubble",
+        "syllable": "bu·bble"
+      },
+      "wordId": 794969
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "合作，配合，协助",
+      "word": {
+        "createTime": null,
+        "frequency": 5180,
+        "id": 830708,
+        "phonAm": "koˈɑpəˌret",
+        "phonEn": "kəʊˈɒpəreɪt",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "cooperate",
+        "syllable": "co·op·er·ate"
+      },
+      "wordId": 830708
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "泡，水泡; 冒泡，起泡; 泡影，妄想; （欲表达的）一点感情",
+      "word": {
+        "createTime": null,
+        "frequency": 4254,
+        "id": 794969,
+        "phonAm": "ˈbʌbəl",
+        "phonEn": "ˈbʌbl",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "bubble",
+        "syllable": "bu·bble"
+      },
+      "wordId": 794969
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "泡，水泡; 冒泡，起泡; 泡影，妄想; （欲表达的）一点感情",
+      "word": {
+        "createTime": null,
+        "frequency": 4254,
+        "id": 794969,
+        "phonAm": "ˈbʌbəl",
+        "phonEn": "ˈbʌbl",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "bubble",
+        "syllable": "bu·bble"
+      },
+      "wordId": 794969
+    },
+    {
+      "@type": "com.wj.airead.api.article.vo.ResultWordVO",
+      "meaning": "泡，水泡; 冒泡，起泡; 泡影，妄想; （欲表达的）一点感情",
+      "word": {
+        "createTime": null,
+        "frequency": 4254,
+        "id": 794969,
+        "phonAm": "ˈbʌbəl",
+        "phonEn": "ˈbʌbl",
+        "pronAmFile": "",
+        "pronEnFile": "",
+        "spell": "bubble",
+        "syllable": "bu·bble"
+      },
+      "wordId": 794969
+    }
+  ],
+  "fail": false,
+  "message": "成功",
+  "success": true,
+  "timestamp": null
+}
